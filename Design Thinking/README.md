@@ -1,6 +1,7 @@
-## Dataset
+## Empathize
 
-For dataset [click here](https://drive.google.com/file/d/1RgAKGw_u2MW2xFDUSiAwrFNPae7qj7zJ/view?usp=sharing).
+ชื่อ : ปณพัฒน์ ประสานบุญเลิศ
+profile : เป็นคนพูดไม่เก่ง ชอบค้นคว้าหาความรู้ด้วยตัวเอง
 
 ## Feature
 
@@ -13,8 +14,9 @@ For dataset [click here](https://drive.google.com/file/d/1RgAKGw_u2MW2xFDUSiAwrF
 - WEEKDAY วันของสัปดาห์ล่าสุดที่เข้ามาใช้บริการ
   ![This is an image](1.png)
 
-## Data Exploration
+## Histogram
 
+นำข้อมูลที่ได้มาดูภาพรวมด้วย histogram
 ![This is an image](2.png)
 
 ## Elbow
