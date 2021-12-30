@@ -1,10 +1,10 @@
 ## Dataset
 
-For dataset [click here](https://drive.google.com/file/d/1RgAKGw_u2MW2xFDUSiAwrFNPae7qj7zJ/view?usp=sharing).
+For dataset [click here](https://github.com/kullapat-som/BADS7105-CRM-Analytics/blob/main/Voice%20of%20customer/Wongnai%20Reviews%20-%20Small.csv).
 
 ## Elbow
 
-ใช้วิธี Elbow เพื่อหาจำนวน K ที่เหมาะสมในการแบ่งกลุ่ม cluster ซึ่งในที่นี้คือ 4 กลุ่ม
+ใช้วิธี Elbow เพื่อหาจำนวน K ที่เหมาะสมในการแบ่งกลุ่ม cluster ซึ่งในที่นี้คือ 4 กลุ่ม  
 ![This is an image](1.png)
 
 ## Data Cleansing
